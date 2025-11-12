@@ -1,5 +1,7 @@
 # 🏭 Smart Factory Monitoring Dashboard (React + TypeScript)
 
+
+## ▶️▶️ Live Demo - https://indusight-board.vercel.app/
 ## 📘 Overview
 This project is a **Smart Factory Monitoring Dashboard** built using **React**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui components**.  
 It simulates a real-time Industrial IoT monitoring system, visualizing live metrics such as **temperature**, **vibration**, and **energy usage**.  
