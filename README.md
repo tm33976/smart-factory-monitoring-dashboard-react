@@ -1,4 +1,4 @@
-# 🏭 Smart Factory Monitoring Dashboard (React + TypeScript)
+# 🏭 Smart Factory Monitoring Dashboard
 
 ## ▶️▶️ Live Demo - https://indusight-board.vercel.app/
 
